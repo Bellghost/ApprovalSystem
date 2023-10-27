@@ -23,7 +23,7 @@ ApprovalSystem使用说明
 - 操作系统：不限
 - Web服务器：Tomcat
 ## 2. 操作指南
-项目运行后，在网页端输入http://localhost:8080/login，进行登录运行
+项目运行后，在网页端输入 http://localhost:8080/login 进行登录运行
 # 快速入门
 用户界面
 ![](img/p1.png) 
